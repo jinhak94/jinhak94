@@ -2,8 +2,9 @@
 
 ## Education &#127976;
 ___
-* (Mar,2013 ~ Feb,2020) Department of Computer Engineering, korea polytechnic university,
 * (Mar,2010 ~ Feb,2013) Hak Ik High School,Korea
+* (Mar,2013 ~ Feb,2020) Department of Computer Engineering, korea polytechnic university,
+
 
 ## Work experience &#128188;
  ___
